@@ -28,8 +28,5 @@
   "dependencies": {
     "is-number": "npm:@clevercanyon/is-number.fork@^7.0.0"
   },
-  "devDependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "devDependencies": {}
 }
