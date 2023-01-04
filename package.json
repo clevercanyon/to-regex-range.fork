@@ -1,5 +1,8 @@
 {
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "version": "5.0.4",
   "name": "@clevercanyon/to-regex-range.fork",
