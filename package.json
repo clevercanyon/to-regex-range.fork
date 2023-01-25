@@ -4,7 +4,7 @@
     "access": "public"
   },
   "license": "MIT",
-  "version": "5.0.5",
+  "version": "5.0.6",
   "name": "@clevercanyon/to-regex-range.fork",
   "description": "Pass two numbers, get a regex-compatible source string for matching ranges.",
   "repository": "https://github.com/clevercanyon/to-regex-range.fork",
