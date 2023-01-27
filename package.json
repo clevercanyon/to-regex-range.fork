@@ -3,7 +3,7 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "5.0.8",
+	"version": "5.0.9",
 	"license": "MIT",
 	"name": "@clevercanyon/to-regex-range.fork",
 	"description": "Pass two numbers, get a regex-compatible source string for matching ranges.",
@@ -11,7 +11,9 @@
 	"homepage": "https://github.com/clevercanyon/to-regex-range.fork#readme",
 	"bugs": "https://github.com/clevercanyon/to-regex-range.fork/issues",
 	"funding": "https://github.com/sponsors/clevercanyon",
-	"keywords": ["clevercanyon"],
+	"keywords": [
+		"clevercanyon"
+	],
 	"author": {
 		"name": "Jon Schlinkert",
 		"url": "https://github.com/jonschlinkert"
@@ -23,7 +25,9 @@
 		}
 	],
 	"type": "commonjs",
-	"files": ["/index.js"],
+	"files": [
+		"/index.js"
+	],
 	"bin": {},
 	"imports": {},
 	"exports": null,
@@ -46,8 +50,14 @@
 	},
 	"overrides": {},
 	"workspaces": [],
-	"cpu": ["x64", "arm64"],
-	"os": ["darwin", "linux"],
+	"cpu": [
+		"x64",
+		"arm64"
+	],
+	"os": [
+		"darwin",
+		"linux"
+	],
 	"engines": {
 		"node": "^19.2.0 || ^19.4.0",
 		"npm": "^8.19.3 || ^9.2.0"
