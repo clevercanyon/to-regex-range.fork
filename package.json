@@ -3,7 +3,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "5.0.98",
+    "version": "5.0.99",
     "license": "MIT",
     "name": "@clevercanyon/to-regex-range.fork",
     "description": "Pass two numbers, get a regex-compatible source string for matching ranges.",
@@ -35,14 +35,14 @@
     "types": "",
     "typesVersions": {},
     "dependencies": {
-        "is-number": "npm:@clevercanyon/is-number.fork@^7.0.100"
+        "is-number": "npm:@clevercanyon/is-number.fork@^7.0.101"
     },
     "peerDependencies": {},
     "peerDependenciesMeta": {},
     "optionalDependencies": {},
     "bundleDependencies": [],
     "devDependencies": {
-        "@clevercanyon/dev-deps": "^1.0.327"
+        "@clevercanyon/dev-deps": "^1.0.328"
     },
     "overrides": {},
     "cpu": ["x64", "arm64"],
